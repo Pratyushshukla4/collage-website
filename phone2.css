@@ -1,0 +1,86 @@
+.vsnmsn{
+    flex-direction: column;
+    /* height: auto; */
+    justify-content: space-evenly;
+    /* height: 1100px; */
+    height: auto;
+}
+.vission{
+    width: 85%;
+    margin: auto;
+    height: auto;
+    margin-top: 2%;
+}
+.mission{
+    width: 85%;
+    margin: auto;
+    height: auto;
+}
+.enterprenship{
+    width: 85%;
+    margin: auto;
+    height: auto;
+}
+.abtclg{
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: auto;
+    margin: auto;
+
+}
+.mainheading{
+      width: 85%;
+      margin: auto;
+}
+.theinstitute{
+    width: 85%;
+    margin: auto;
+}
+.respectiveperson{
+    flex-direction: column;
+    justify-content: space-evenly;
+    /* height: auto; */
+    height: 800px;
+}
+.placement{
+    width: 85%;
+    /* height: auto; */
+    margin: auto;
+
+}
+.addmission{
+    width: 85%;
+    /* height: auto; */
+    margin: auto;
+    
+}
+.addministration{
+    width: 85%;
+    /* height: auto; */
+    margin: auto;
+}
+.contact1{
+    margin-left: 50px;
+}
+.contact1{
+    margin-left: 30px;
+}
+.f1img{
+    height: 275px;
+}
+.a13 img{
+   
+    margin-right: 0%;
+    height: auto;
+}
+
+
+.rightcontentlist {
+    font-size: 15px;
+}
+.jssabout{
+    width: 85%;
+}
+.nav2 img{
+    height: 100px;
+}
